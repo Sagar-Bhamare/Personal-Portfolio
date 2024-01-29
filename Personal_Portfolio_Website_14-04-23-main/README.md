@@ -19,11 +19,6 @@ I'm a passionate Fullstack Developer with a keen interest in crafting delightful
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide=stars,issues&theme=radical)](https://github.com/your-username)
-
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/http://www.linkedin.com/in/sagarbhamare-profiledetails)
