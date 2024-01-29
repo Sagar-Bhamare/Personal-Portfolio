@@ -4,11 +4,10 @@ I'm a passionate Fullstack Developer with a keen interest in crafting delightful
 
 ## 🚀 About Me
 
-- 🌐 Website: [Your Portfolio URL]
-- 💼 Currently working on [Current Project/Job]
-- 🌱 Learning and experimenting with [Technology/Tool]
+- 🌐 Website: https://sagar-bhamare.github.io/Personal-Portfolio//Personal_Portfolio_Website_14-04-23-main/
+
 - 💡 Open to collaboration on projects
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: sagarbhamare30@gmail.com
 
 ## 🔧 Technologies & Tools
 
@@ -24,17 +23,11 @@ I'm a passionate Fullstack Developer with a keen interest in crafting delightful
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide=stars,issues&theme=radical)](https://github.com/your-username)
 
-## 📝 Latest Blog Posts
-
-- [Blog Post 1](https://your-blog-url/post-1)
-- [Blog Post 2](https://your-blog-url/post-2)
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor)](https://your-portfolio-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat&logo=dev.to)](https://dev.to/your-devto-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/http://www.linkedin.com/in/sagarbhamare-profiledetails)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor)](https://https://sagar-bhamare.github.io/Personal-Portfolio//Personal_Portfolio_Website_14-04-23-main/)
 
 ---
 
